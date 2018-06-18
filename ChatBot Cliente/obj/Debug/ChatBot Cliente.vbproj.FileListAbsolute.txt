@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\bin\Debug\ChatBot Cliente.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\bin\Debug\ChatBot Cliente.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\bin\Debug\ChatBot Cliente.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\bin\Debug\ChatBot Cliente.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot_Cliente.FormMain.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot_Cliente.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot Cliente.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot Cliente.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot Cliente.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot Cliente.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot Cliente.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot Cliente\obj\Debug\ChatBot Cliente.vbprojResolveAssemblyReference.cache
