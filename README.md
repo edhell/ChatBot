@@ -8,15 +8,16 @@ Eduardo Dumke -www.edinfo.com.br - 2018
 
 # Andamento do projeto: <br>
 (OK) Aplicação Server<br>
-  (OK) Inicia Servidor<br>
-  (OK) Recebe mensagens<br>
-  (OK) Processa comandos<br>
-  (OK) Retorna solicitação<br>
+ * (OK) Inicia Servidor<br>
+ * (OK) Recebe mensagens<br>
+ * (OK) Processa comandos<br>
+ * (OK) Retorna solicitação<br>
+ 
 (OK) Aplicação Cliente<br>
-  (OK) Conecta ao Servidor<br>
-  (OK) Envia mensagem<br>
-  (OK) Solicita Serviço<br>
-  (OK) Recebe e apresenta Serviço<br>
+ * (OK) Conecta ao Servidor<br>
+ * (OK) Envia mensagem<br>
+ * (OK) Solicita Serviço<br>
+ * (OK) Recebe e apresenta Serviço<br>
 
 # Comandos Aceitos: <br>
 (OK) /Donos - <br>
