@@ -1,0 +1,16 @@
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBotServer.FormMain.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBotServer.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBot Server.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBot Server.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\ChatBot Server.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\ChatBot Server.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\ChatBot Server.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\ChatBot Server.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBot Server.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBot Server.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBot Server.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\obj\Debug\ChatBot Server.vbprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\NewsAPI.dll
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\ChatBot\ChatBot\bin\Debug\NewsAPI.xml
